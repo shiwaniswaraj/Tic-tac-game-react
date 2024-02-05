@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tictac/static/css/main.02806313.css",
-    "main.js": "/tictac/static/js/main.f4fd972c.js",
-    "static/js/787.ab44ae21.chunk.js": "/tictac/static/js/787.ab44ae21.chunk.js",
-    "static/media/bg.jpg": "/tictac/static/media/bg.42ea5ad75963ca363e60.jpg",
-    "static/media/logo.svg": "/tictac/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tictac/index.html",
-    "main.02806313.css.map": "/tictac/static/css/main.02806313.css.map",
-    "main.f4fd972c.js.map": "/tictac/static/js/main.f4fd972c.js.map",
-    "787.ab44ae21.chunk.js.map": "/tictac/static/js/787.ab44ae21.chunk.js.map"
+    "main.css": "/Tic-tac-game-react/static/css/main.70efa6b5.css",
+    "main.js": "/Tic-tac-game-react/static/js/main.c34cea7c.js",
+    "static/js/787.ab44ae21.chunk.js": "/Tic-tac-game-react/static/js/787.ab44ae21.chunk.js",
+    "static/media/bg.jpg": "/Tic-tac-game-react/static/media/bg.42ea5ad75963ca363e60.jpg",
+    "static/media/logo.svg": "/Tic-tac-game-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tic-tac-game-react/index.html",
+    "main.70efa6b5.css.map": "/Tic-tac-game-react/static/css/main.70efa6b5.css.map",
+    "main.c34cea7c.js.map": "/Tic-tac-game-react/static/js/main.c34cea7c.js.map",
+    "787.ab44ae21.chunk.js.map": "/Tic-tac-game-react/static/js/787.ab44ae21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02806313.css",
-    "static/js/main.f4fd972c.js"
+    "static/css/main.70efa6b5.css",
+    "static/js/main.c34cea7c.js"
   ]
 }
