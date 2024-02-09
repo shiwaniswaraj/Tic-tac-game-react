@@ -48,6 +48,9 @@ if (isWinner) {
 const handleClick = (index) => {
 
     const copyState = [...state];
+    if(copyState[index]){
+      return ;
+    }
     copyState[index] = isXturn ? "X ": "0";
     setState(copyState);
     setIsXturn(!isXturn);
